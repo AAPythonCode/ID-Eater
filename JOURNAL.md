@@ -1,3 +1,10 @@
+---
+title: "ID Eater"
+author: "Ayaan Dhir"
+description: "A bathroom pass that has the ability to scan a school ID's barcode and output the ID onto a Hall Pass monitor."
+created_at: "2026-08-15"
+---
+
 # Journals
 Hey! I'm Ayaan, a 13 year-old who's spent ~1.5 years on Hack Club! This is where I'll post all of my journals, specifically made for the program [Forge](https://forge.hackclub.com/).
 

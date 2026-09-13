@@ -41,7 +41,7 @@ Here's the Bill Of Materials if you want to build this yourself:
 | Perf Board | $1.99 | [Link](https://t.ly/8iwan) |
 | FFC/FPC Converter | $1.99 | [Link](https://t.ly/gyBrI) |
 
-### Total (+ tax and shipping): 34.09
+### Total (+ tax and shipping): $36.68
 
 ## Images
 Visual learners rejoice!!!!!!

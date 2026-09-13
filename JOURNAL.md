@@ -47,7 +47,7 @@ Here's some of the links to the things I've created so far:
 
 The Design Whiteboard: https://miro.com/app/board/uXjVHwO0I8I=/?share_link_id=880799899556
 
-### Total Hours Spent: 4h 30m
+### Total time spent: 4h 30m
 
 ## 8/27-8/30
 ### A Summary Of The Past 3 Days
@@ -76,4 +76,4 @@ The Rectangular Pushing Plate (used to align the ID so the servo can push it bac
 The EVAWGIB (used for testing the assembly, won't be printed):
 <img width="1451" height="989" alt="Screenshot 2026-08-30 at 5 55 33 PM" src="https://github.com/user-attachments/assets/b356b678-4d28-4394-b0be-a96f14185b12" />
 
-### Total Time Spent (Over Past Three Days): 7h 30m
+### Total time spent: 7h 30m

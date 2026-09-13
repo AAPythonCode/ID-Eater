@@ -1,5 +1,5 @@
 # Journals
-Hey! I'm Ayaan, a 13 year-old who's spent ~1.5 years on Hack Club! This is where I'll post all of my journals, specifically made for the program [Gadget Market](https://gadget.hackclub.com).
+Hey! I'm Ayaan, a 13 year-old who's spent ~1.5 years on Hack Club! This is where I'll post all of my journals, specifically made for the program [Forge](https://forge.hackclub.com/).
 
 ## 8/25/26
 ### A Summary Of What I Did Today
